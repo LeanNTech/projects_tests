@@ -6,8 +6,8 @@
 
 
 
-![e426702edf874b181aced1e2fa5c6cde](https://user-images.githubusercontent.com/95369610/202875272-ee3c6443-1217-4bf5-9b90-43767b31ac33.gif)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=FREE SOURCE&text1=glitch🤹&width=500&height=200)](https://github.com/Akshay090/svg-banners)
 
-OBJETIVO🎯 : Practicas variadas con tecnologías orientadas al testing y programación. 2022
+OBJETIVO🎯 : Practicas variadas con tecnologías orientadas al testing y scripting. 2023
 
  ![GitHub Org's stars](https://img.shields.io/github/stars/LeanNTech?style=social)
