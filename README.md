@@ -9,6 +9,6 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=PORTFOLIO&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-OBJETIVO🎯 : Practicas variadas con tecnologías orientadas al testing y scripting. 2023
+*OBJETIVO🎯 : Practicas variadas con tecnologías orientadas al testing y scripting. 2023*
 
  ![GitHub Org's stars](https://img.shields.io/github/stars/LeanNTech?style=social)
