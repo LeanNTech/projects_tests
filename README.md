@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Mis%20Practicas%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Mis%20Practicas%20👨‍💻&width=400&height=200)]
 
 
 ## 💻 *BIENVENIDOS A MI REPOSITORIO DE PRACTICA* 💻
