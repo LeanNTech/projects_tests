@@ -3,7 +3,7 @@
 ## 💻 *BIENVENIDOS A MI REPOSITORIO DE PRACTICA* 💻
 
 [![My Skills](https://skillicons.dev/icons?i=python,selenium,mysql,mongodb)](https://skillicons.dev)
-https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white
+[![My Skills](https://skills.thijs.gg/icons?i=jira)](https://skills.thijs.gg)
 
 
 
