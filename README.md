@@ -1,9 +1,7 @@
-https://img.shields.io/github/watchers/{username}/{repo-name}.svg
-
 ## 💻 *BIENVENIDOS A MI REPOSITORIO DE PRACTICA* 💻
 
 [![My Skills](https://skillicons.dev/icons?i=python,selenium,mysql,mongodb)](https://skillicons.dev)
-
+![image]({https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white})
 
 
 
