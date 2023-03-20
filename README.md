@@ -1,7 +1,7 @@
 
 
 ## 💻 *BIENVENIDOS A MI REPOSITORIO DE PRACTICA* 💻
-[![My Skills](https://skillicons.dev/icons?i=python,jira,selenium,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,Jira,selenium,mysql,mongodb)](https://skillicons.dev)
 
 
 
