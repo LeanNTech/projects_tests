@@ -3,6 +3,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,selenium,mysql,mongodb)](https://skillicons.dev)
 
 ![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=PORTFOLIO&width=800&height=400)](https://github.com/Akshay090/svg-banners)
