@@ -1,6 +1,6 @@
 ## 💻 *BIENVENIDOS A MI REPOSITORIO DE PRACTICA* 💻
 
-[![My Skills](https://skillicons.dev/icons?i=python,selenium,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,selenium,mysql,mongodb)](https://skillicons.dev)
 
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
